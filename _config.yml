@@ -58,8 +58,6 @@ content:
         # link_text: boringcompany.com
         sub_title: Senior Staff Software Engineer
         caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
@@ -70,7 +68,7 @@ content:
         sub_title: Consultant
         caption: Feb 2018 - Dec 2019
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Acquired by Google in 2022
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
@@ -78,12 +76,24 @@ content:
         title: Endgame
         link: mandian.com
         # link_text: boringcompany.com
-        sub_title: Consultant
+        sub_title: Security Research Intern
         caption: Feb 2018 - Dec 2019
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Acquired by Elastic in 2019
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+      - layout: left
+        title: MITRE
+        link: mandiant.com
+        # link_text: boringcompany.com
+        sub_title: Security Engineer Intern
+        caption: Feb 2018 - Dec 2019
+        quote: >
+          Acquired by Elastic in 2019
+        description: | # this will include new lines to allow paragraphs
+            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
 
 
   - title: Education # Title for the section
