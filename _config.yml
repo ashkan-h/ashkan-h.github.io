@@ -61,10 +61,11 @@ content:
             
 
       - layout: left
-        title: Mandiant 
+        title: Mandiant
+        comments: Acquired by Google in 2022
         link: mandiant.com
         sub_title: Consultant
-        caption: Feb 2018 - Dec 2019
+        caption: Feb 2010 - Dec 2019
         quote: >
           Acquired by Google in 2022
         description: | # this will include new lines to allow paragraphs
