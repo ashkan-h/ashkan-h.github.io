@@ -72,7 +72,7 @@ content:
 
       - layout: left
         title: Endgame
-        link: mandiant.com
+        link: endgame.com
         sub_title: Security Research Intern
         caption: Jun 2017 - Oct 2017
         quote: >
@@ -82,12 +82,10 @@ content:
 
       - layout: left
         title: MITRE
-        link: mandiant.com
+        link: mitre.org
         # link_text: boringcompany.com
         sub_title: Security Engineer Intern
         caption: May 2016 - Sep 2016
-        quote: >
-          Acquired by Elastic in 2019
         description: | # this will include new lines to allow paragraphs
             Wired various program analysis and symbolic execution tools such as KLEE and JPF-SE into an automated build pipeline for vulnerability detection during compile-time.
 
