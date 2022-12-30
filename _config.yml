@@ -21,7 +21,6 @@ twitter_username: ashkanhosseini
 linkedin_username: ashkan-h
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -44,9 +43,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Ashkan and I'm a Senior Staff Software Engineer at Palo Alto Networks. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: Offensive Security, Reverse engineering, Malware Analysis, Vulnerability Research, and Mobile Security. 
+  Hi, my name is Ashkan and I'm a Senior Staff Software Engineer at Palo Alto Networks, working at the intersection of cybersecurity and machine learning.
+  I received my M.S. from Columbia University in 2017, and my B.A. in computer science and mathematics from UC Berkeley in 2015. I love hacking, [modular synths](https://www.makenoisemusic.com/), and learning new things.
+  I'm a movie buff, a [stream-of-consciousness fan](https://en.wikipedia.org/wiki/Virginia_Woolf), and an avid runner. I can speak and write in Farsi, Arabic, and English.
 
 content:
   - title: Experience # Title for the section
@@ -74,7 +73,7 @@ content:
 
       - layout: left
         title: Endgame
-        link: mandian.com
+        link: mandiant.com
         # link_text: boringcompany.com
         sub_title: Security Research Intern
         caption: Feb 2018 - Dec 2019
