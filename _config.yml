@@ -75,8 +75,7 @@ content:
         link: endgame.com
         sub_title: Security Research Intern
         caption: Jun 2017 - Oct 2017
-        quote: >
-          Acquired by Elastic in 2019
+        comments: Acquired by Elastic in 2019
         description: | # this will include new lines to allow paragraphs
             Reverse engineered malware samples of different families to harden Endgame’s VMI sand- box platform against evasion techniques, and wrote signatures for Endgame’s internal sandbox to detect process injection and lateral movement.
 
