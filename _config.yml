@@ -66,7 +66,8 @@ content:
         sub_title: Consultant
         caption: Feb 2018 - Dec 2019
         additional_links:
-          - title: In September 2022, Mandiant was acquired by Google
+          - title: Link name
+            icon: https://fontawesome.com/icons?d=gallery&s=brands&m=free
             url: https://google.com
         description: | # this will include new lines to allow paragraphs
             Executed web applications, Android and iOS applications, and network penetration tests. Performed both white box, source assisted code reviews, and black box security audits, and provided recommendations to address discovered security vulnerabilities.
@@ -118,7 +119,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - X
+      - Smart Locks: Lessons for Securing Commodity Internet of Things Devices
+        Grant Ho, Derek Leung, Pratyush Mishra, Ashkan Hosseini, David Wagner, and Dawn Song
+        AsiaCCS 2016
       - X
       - X
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
