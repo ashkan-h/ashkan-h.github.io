@@ -48,7 +48,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Ashkan and I'm a Senior Staff Software Engineer at Palo Alto Networks. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: Reverse engineering, Malware Analysis, Vulnerability Research, and Mobile Security, 
+  I am most skilled in: Offensive Security, Reverse engineering, Malware Analysis, Vulnerability Research, and Mobile Security. 
 
 content:
   - title: Experience # Title for the section
@@ -94,7 +94,7 @@ content:
       - layout: left
         title: Columbia University
         caption: 2016 - 2017
-        sub_title: MSc Computer Science
+        sub_title: MS in Computer Science
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -105,7 +105,7 @@ content:
       - layout: left
         title: UC Berkeley
         caption: 2013 - 2015
-        sub_title: BA Computer Science and Applied Math (Dual Major)
+        sub_title: BA in Computer Science and Math (Dual Major)
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
