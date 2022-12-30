@@ -8,8 +8,6 @@ version: 2
 # Personal info
 name: Ashkan Hosseini
 title: Senior Staff Software Engineer
-email: ashkan [dot] h1 [at] gmail [dot] com
-website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
