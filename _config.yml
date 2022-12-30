@@ -65,7 +65,6 @@ content:
 
       - layout: left
         title: Mandiant 
-        sub_title: (acquired by Google 2022)
         link: mandiant.com
         # link_text: boringcompany.com
         sub_title: Consultant
@@ -76,7 +75,7 @@ content:
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
       - layout: left
-        title: Endgame (acquired by Google 2022)
+        title: Endgame
         link: mandian.com
         # link_text: boringcompany.com
         sub_title: Consultant
