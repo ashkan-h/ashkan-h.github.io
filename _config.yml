@@ -62,12 +62,12 @@ content:
 
       - layout: left
         title: Mandiant
-        text: Acquired by Google in 2022
         link: mandiant.com
         sub_title: Consultant
         caption: Feb 2018 - Dec 2019
-        quote: >
-          Acquired by Google in 2022
+        additional_links:
+          - title: In September 2022, Mandiant was acquired by Google
+            url: https://google.com
         description: | # this will include new lines to allow paragraphs
             Executed web applications, Android and iOS applications, and network penetration tests. Performed both white box, source assisted code reviews, and black box security audits, and provided recommendations to address discovered security vulnerabilities.
 
