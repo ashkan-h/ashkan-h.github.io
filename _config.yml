@@ -127,8 +127,8 @@ content:
   - title: Media
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - TechRadar: https://www.techradar.com/news/dont-open-that-pdf-email-attachment-it-could-well-be-malware
-      - CNN: https://money.cnn.com/2017/07/12/technology/malware-researcher-helps-teen-hackers/index.html
+      - TechRadar: [https://www.techradar.com/news/dont-open-that-pdf-email-attachment-it-could-well-be-malware]
+      - CNN: [https://money.cnn.com/2017/07/12/technology/malware-researcher-helps-teen-hackers/index.html]
 
   - title: A Little More About Me
     layout: text
