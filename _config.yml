@@ -119,10 +119,10 @@ content:
         <font size="1"> Endgame Security 2017 </font>
       - Smart Locks: Lessons for Securing Commodity Internet of Things Devices\
         Grant Ho, Derek Leung, Pratyush Mishra, Ashkan Hosseini, David Wagner, and Dawn Song\
-        <font size="1"> ACM AsiaCCS 2016 </font>
+        ####### ACM AsiaCCS 2016
       - Android Permissions Remystified: A Field Study on Contextual Integrity\
         Primal Wijesekera, University of British Columbia; Arjun Baokar, Ashkan Hosseini, Serge Egelman, and David Wagner\
-        <font size="1"> USENIX Security 2015 </font>
+        ####### USENIX Security 2015
 
   - title: Media
     layout: text
