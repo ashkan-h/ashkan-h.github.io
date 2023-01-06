@@ -113,36 +113,28 @@ content:
     content: | # this will include new lines to allow paragraphs
       - 2020 Phishing Trends With PDF Files\
         Ashkan Hosseini, Ashutosh Chitwadgi\
-        Unit 42 Palo Alto Networks 2021
+       <font size=”1”> Unit 42 Palo Alto Networks 2021 </font>
       - Ten Process Injection Techniques: A Technical Survey Of Common And Trending Process Injection Techniques\
         Ashkan Hosseini
-        Endgame Security 2017
+        <font size=”1”> Endgame Security 2017 </font>
       - Smart Locks: Lessons for Securing Commodity Internet of Things Devices\
         Grant Ho, Derek Leung, Pratyush Mishra, Ashkan Hosseini, David Wagner, and Dawn Song\
-        ACM AsiaCCS 2016
+        <font size=”1”> ACM AsiaCCS 2016 </font>
       - Android Permissions Remystified: A Field Study on Contextual Integrity\
         Primal Wijesekera, University of British Columbia; Arjun Baokar, Ashkan Hosseini, Serge Egelman, and David Wagner\
-        USENIX Security 2015
+        <font size=”1”> USENIX Security 2015 </font>
 
   - title: Media
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - TechRada: https://www.techradar.com/news/dont-open-that-pdf-email-attachment-it-could-well-be-malware
+      - TechRadar: https://www.techradar.com/news/dont-open-that-pdf-email-attachment-it-could-well-be-malware
       - CNN: https://money.cnn.com/2017/07/12/technology/malware-researcher-helps-teen-hackers/index.html
-      
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Smart Locks: Lessons for Securing Commodity Internet of Things Devices\
-        Grant Ho, Derek Leung, Pratyush Mishra, Ashkan Hosseini, David Wagner, and Dawn Song\
-        AsiaCCS 2016
-      - X
-      - X
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      -
 
 # Footer
 footer_show_references: true
