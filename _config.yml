@@ -25,10 +25,10 @@ linkedin_username: ashkan-h
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-#additional_links:
-#- title: itsgoingto.be
-#  icon: fas fa-globe
-#  url: https://www.itsgoingto.be
+additional_links:
+- title: last.fm
+  icon: fa-brands fa-lastfm
+  url: https://www.last.fm/user/ashool
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -128,15 +128,15 @@ content:
   - title: Media
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **TechRadar:** https://www.techradar.com/news/dont-open-that-pdf-email-attachment-it-could-well-be-malware
-      - **CNN:** https://money.cnn.com/2017/07/12/technology/malware-researcher-helps-teen-hackers/index.html
+      - **TechRadar:** [https://www.techradar.com/news/dont-open-that-pdf-email-attachment-it-could-well-be-malware](https://www.techradar.com/news/dont-open-that-pdf-email-attachment-it-could-well-be-malware)
+      - **CNN:** [https://money.cnn.com/2017/07/12/technology/malware-researcher-helps-teen-hackers/index.html](https://money.cnn.com/2017/07/12/technology/malware-researcher-helps-teen-hackers/index.html)
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      Alongside my interests in cybersecurity and software engineering some of my other interests and hobbies are:
       - Sound Design: These days, I am mostly exploring [FM synthesis](https://en.wikipedia.org/wiki/Frequency_modulation_synthesis), generating complex timbres by modulating the frequency of one sound with another.
-      - Songwriting: I enjoy collaborating with local artists here in the Bay Area. I am a huge fan of programming drum [polyrhythms](https://en.wikipedia.org/wiki/Polyrhythm) and incorporating them into genres such as "nu jazz" and "drum and Bass". You can find my some of my work on my [Soundcloud](https://soundcloud.com/pxl0k) page.
+      - Songwriting: I enjoy collaborating with local artists here in the Bay Area. I am a huge fan of programming drum [polyrhythms](https://en.wikipedia.org/wiki/Polyrhythm) and incorporating them into genres such as "nu jazz" and "drum and bass". You can find my some of my work on my [Soundcloud](https://soundcloud.com/pxl0k) page.
 
 # Footer
 footer_show_references: true
