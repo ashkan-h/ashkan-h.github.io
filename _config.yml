@@ -42,7 +42,7 @@ additional_links:
 # About Section
 # about_title: About Me
 about_content: | # this will include new lines to allow paragraphs
-  Hi! My name is Ashkan and I'm a Principal Engineer at Palo Alto Networks, working at the intersection of cybersecurity and machine learning.
+  Hi! My name is Ashkan and I'm a Principal Engineer at Palo Alto Networks, working at the intersection of cybersecurity and machine learning. Before joining Palo Alto Networks, I worked as a consultant at Mandiant.
   I received my M.S. from Columbia University in 2017, and my B.A. in computer science and mathematics from UC Berkeley in 2015.
 content:
   - title: Publications
