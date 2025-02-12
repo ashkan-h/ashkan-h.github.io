@@ -41,30 +41,10 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi! My name is Ashkan and I'm a Principal Engineer at Palo Alto Networks, working at the intersection of cybersecurity and machine learning.
   I received my M.S. from Columbia University in 2017, and my B.A. in computer science and mathematics from UC Berkeley in 2015.
 content:
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Columbia University
-        caption: 2016 - 2017
-        sub_title: MS in Computer Science
-        description: | # this will include new lines to allow paragraphs
-          During my time at Columbia University I researched on techniques for speeding up malware reverse engineering as well as browser security. My research allowed me to land a role at Endgame Inc.
-
-      - layout: left
-        title: UC Berkeley
-        caption: 2013 - 2015
-        sub_title: BA in Computer Science and Math
-        description: | # this will include new lines to allow paragraphs
-          During my time at UC Berkeley I was a full time researcher at Berkeley Usable Security (BLUES) and Secure Computing Research for Users' Benefit (SCRUB) labs. I also served as the co-captain and lead instructor of Cybersecurity Club.
-          My research led to multiple publications, and I co-authored two papers that got accepted to USENIX and ACM ASIACCS.
-
-
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
