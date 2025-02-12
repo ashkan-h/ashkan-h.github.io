@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Ashkan Hosseini
-title: Senior Staff Software Engineer
+title: Principal Software Engineer
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -43,53 +43,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi! My name is Ashkan and I'm a Senior Staff Software Engineer at Palo Alto Networks, working at the intersection of cybersecurity and machine learning.
-  I received my M.S. from Columbia University in 2017, and my B.A. in computer science and mathematics from UC Berkeley in 2015. I love hacking, [modular synths](https://www.makenoisemusic.com/), and learning new things.
-  I'm a movie buff, a [stream-of-consciousness](https://en.wikipedia.org/wiki/Virginia_Woolf) fan, and an avid runner. I can speak and write in Farsi, Arabic, and English.
-
+  Hi! My name is Ashkan and I'm a Principal Engineer at Palo Alto Networks, working at the intersection of cybersecurity and machine learning.
+  I received my M.S. from Columbia University in 2017, and my B.A. in computer science and mathematics from UC Berkeley in 2015.
 content:
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Palo Alto Networks
-        link: paloaltonetworks.com
-        sub_title: Senior Staff Software Engineer
-        caption: Jan 2020 - Present
-        description: | # this will include new lines to allow paragraphs
-            I'm part of the [Threat Prevention](https://docs.paloaltonetworks.com/pan-os/9-1/pan-os-admin/threat-prevention) team, where I build machine learning models and advanced heuristics to block malicious traffic on the wire.
-            
-
-      - layout: left
-        title: Mandiant
-        link: mandiant.com
-        sub_title: Consultant
-        caption: Feb 2010 - Dec 2019
-        additional_links:
-          - title: Link name
-            icon: https://fontawesome.com/icons?d=gallery&s=brands&m=free
-            url: https://google.com
-        description: | # this will include new lines to allow paragraphs
-            Executed web applications, Android and iOS applications, and network penetration tests. Performed both white box, source assisted code reviews, and black box security audits, and provided recommendations to address discovered security vulnerabilities.
-
-      - layout: left
-        title: Endgame
-        link: endgame.com
-        sub_title: Security Research Intern
-        caption: Jun 2017 - Oct 2017
-        comments: Acquired by Elastic in 2019
-        description: | # this will include new lines to allow paragraphs
-            Reverse engineered malware samples of different families to harden Endgame’s VMI sand- box platform against evasion techniques, and wrote signatures for Endgame’s internal sandbox to detect process injection and lateral movement.
-
-      - layout: left
-        title: MITRE
-        link: mitre.org
-        # link_text: boringcompany.com
-        sub_title: Security Engineer Intern
-        caption: May 2016 - Sep 2016
-        description: | # this will include new lines to allow paragraphs
-            Wired various program analysis and symbolic execution tools such as KLEE and JPF-SE into an automated build pipeline for vulnerability detection during compile-time.
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -124,19 +80,6 @@ content:
       - **Android Permissions Remystified: A Field Study on Contextual Integrity**\
         *Primal Wijesekera, University of British Columbia; Arjun Baokar, Ashkan Hosseini, Serge Egelman, and David Wagner*\
         *USENIX Security 2015*
-
-  - title: Media
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - **TechRadar:** [https://www.techradar.com/news/dont-open-that-pdf-email-attachment-it-could-well-be-malware](https://www.techradar.com/news/dont-open-that-pdf-email-attachment-it-could-well-be-malware)
-      - **CNN:** [https://money.cnn.com/2017/07/12/technology/malware-researcher-helps-teen-hackers/index.html](https://money.cnn.com/2017/07/12/technology/malware-researcher-helps-teen-hackers/index.html)
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in cybersecurity and software engineering some of my other interests and hobbies are:
-      - Sound Design: These days, I am mostly exploring [FM synthesis](https://en.wikipedia.org/wiki/Frequency_modulation_synthesis), generating complex timbres by modulating the frequency of one sound with another.
-      - Songwriting: I enjoy collaborating with local artists here in the Bay Area. I am a huge fan of programming drum [polyrhythms](https://en.wikipedia.org/wiki/Polyrhythm) and incorporating them into genres such as "nu jazz" and "drum and bass". You can find my some of my work on my [Soundcloud](https://soundcloud.com/pxl0k) page.
 
 # Footer
 footer_show_references: true
