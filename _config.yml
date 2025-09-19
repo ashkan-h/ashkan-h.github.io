@@ -42,27 +42,6 @@ additional_links:
 # About Section
 # about_title: About Me
 about_content: | # this will include new lines to allow paragraphs
-  Hi! My name is Ashkan and I'm a Principal Engineer at Palo Alto Networks, working at the intersection of cybersecurity and machine learning. Before joining Palo Alto Networks, I worked as a consultant at Mandiant.
-  I received my M.S. from Columbia University in 2017, and my B.A. in computer science and mathematics from UC Berkeley in 2015.
-content:
-  - title: Publications
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - **Payload Trends in Malicious OneNote Samples**\
-        *Ashkan Hosseini, Ashutosh Chitwadgi*\
-        *Unit 42 Palo Alto Networks 2023*
-      - **2020 Phishing Trends With PDF Files**\
-        *Ashkan Hosseini, Ashutosh Chitwadgi*\
-        *Unit 42 Palo Alto Networks 2021*
-      - **Ten Process Injection Techniques: A Technical Survey Of Common And Trending Process Injection Techniques**\
-        *Ashkan Hosseini*\
-        *Endgame Security 2017*
-      - **Smart Locks: Lessons for Securing Commodity Internet of Things Devices**\
-        *Grant Ho, Derek Leung, Pratyush Mishra, Ashkan Hosseini, David Wagner, and Dawn Song*\
-        *ACM AsiaCCS 2016*
-      - **Android Permissions Remystified: A Field Study on Contextual Integrity**\
-        *Primal Wijesekera, University of British Columbia; Arjun Baokar, Ashkan Hosseini, Serge Egelman, and David Wagner*\
-        *USENIX Security 2015*
 
 # Footer
 footer_show_references: false
